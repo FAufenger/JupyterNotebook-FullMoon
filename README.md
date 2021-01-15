@@ -88,7 +88,7 @@ Percentage of Crime on days with a full moon compared to all other days fo crime
 * Out of the 36 months we looked at there was only one month where the most crime occurred on the full moon. (March in Philadelphia) 
 * For all three cities, the annual crime committed on nights with a full moon (12 days) was 3.3%.
      *  For all three cities, the average crime committed per 12 days was 3.3%. 
-
+* We noticed a pattern in weekly activities, alomst like a sin wave. Showing that day of the week has an impact on crime rates.
 
    
 
