@@ -9,7 +9,7 @@
 *	For the year 2016, we analyzed each month individually to find the below information:
     *   The day the full moon took place in that month
     
-    ![Full Moon 2016](./img/
+    ![Full Moon 2016](./img/fullmoon2016.png)
     
     *   Total number of crimes reported
     *   Average number of crimes per day 
@@ -25,7 +25,7 @@ Data for Boston
 
 ### January
 ![January Data](./img/boston_jan_data.png)
-![January bargraph](./img/
+![January bargraph](./img/boston_jan_bar.png)
 
 ### February
 ![February Data](./img/boston_feb_data.png)
@@ -70,3 +70,25 @@ Data for Boston
 ### December
 ![December Data](./img/boston_dec_data.png)
 ![December bargraph](./img/boston_dec_bar.png)
+
+
+## Overall for the year
+
+Day of Full Moon, Max Day, Min Day
+
+![Max Day, Min Day, Full Moon Day](./img/yearboston.png)
+
+Percentage of Crime on days with a full moon compared to all other days fo crime
+
+![Full moon year](./img/fullmoonyear.png)
+
+## Conclusions
+
+* Given our analysis, we reject our hypothesis. Crime rates were not impacted by a full moon. 
+* Out of the 36 months we looked at there was only one month where the most crime occurred on the full moon. (March in Philadelphia) 
+* For all three cities, the annual crime committed on nights with a full moon (12 days) was 3.3%.
+     *  For all three cities, the average crime committed per 12 days was 3.3%. 
+
+
+   
+
