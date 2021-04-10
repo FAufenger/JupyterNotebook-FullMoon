@@ -1,7 +1,7 @@
 # LunarCrime
 
 ### Overview
-*	Does a full moon impact crime rate?
+*	Work collectively to find if a full moon impacts crime rate.
     * 	In this project, we analyze 2016 crime rates in three major US cities - Baltimore, Boston and Philadelphia as they relate to a full moon. We consider various types of crime while observing the cycles of the moon attempting to find a correlation between the lunar cycle and crime rate. 
     * 	Hypothesis: On days where full moons occur, the crime rates are greater.
 
